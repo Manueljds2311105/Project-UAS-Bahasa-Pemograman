@@ -11,6 +11,8 @@ Dosen Pengampu: Agung Nugroho, S.Kom., M.Kom.
 
 Mata Kuliah: Bahasa Pemograman
 
+### Link Video Youtube
+https://www.youtube.com/watch?si=J06UW7cVw4TLdvwD&v=iYgHP3Nvr6I&feature=youtu.be
 ### 1. Class Mahasiswa
 ```python
 class Mahasiswa:
